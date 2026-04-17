@@ -8,8 +8,7 @@
     "lib"
   ],
   "exports": {
-    ".": "./lib/index.js",
-    "./register": "./lib/register.js"
+    ".": "./lib/index.js"
   },
   "sideEffects": false,
   "dependencies": {},
