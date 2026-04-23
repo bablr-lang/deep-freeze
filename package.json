@@ -1,5 +1,5 @@
 {
-  "name": "@bablr/deep-freeze",
+  "name": "@bablr/record",
   "description": "Deeply freeze trees of objects and arrays",
   "version": "0.0.0",
   "author": "Conrad Buck<conartist6@gmail.com>",
@@ -22,8 +22,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bablr-lang/deep-freeze.git"
+    "url": "git+https://github.com/bablr-lang/record.git"
   },
-  "homepage": "https://github.com/bablr-lang/deep-freeze",
+  "homepage": "https://github.com/bablr-lang/record",
   "license": "MIT"
 }
